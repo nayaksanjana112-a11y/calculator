@@ -80,7 +80,3 @@ const USERNAME = "user";
 const PASSWORD = "1234";
 ```
 
-Replace with your preferred login credentials.
-
-
-If you want to add new features or fix bugs, feel free to ask!
